@@ -121,22 +121,47 @@
   <data name="ImagemOs1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ImagemOs1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="GRUPO MASTER SECURITY" xml:space="preserve">
+    <value />
+  </data>
   <data name="SalvarDadosClientes" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\SalvarDadosClientes.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="imprimir031" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\imprimir031.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="String2" xml:space="preserve">
+    <value>Cliente</value>
+    <comment>Telefone:                                             Data Contato:                </comment>
   </data>
   <data name="cancelarCliente" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cancelarCliente.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ImagemOS" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ImagemOS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="String1" xml:space="preserve">
+    <value>Endereço</value>
+  </data>
+  <data name="Registro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Registro.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logotipo da Empresa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logotipo da Empresa.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="verificar2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\verificar2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="aa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\aa.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="imprimir0311" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\imprimir031.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imprimir031" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imprimir031.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="String" xml:space="preserve">
+    <value>Cliente</value>
+  </data>
+  <data name="String3" xml:space="preserve">
+    <value>Contato</value>
+  </data>
+  <data name="1sapiens" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1sapiens.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

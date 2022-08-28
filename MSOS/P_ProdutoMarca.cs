@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MSOS
+namespace DateSystem
 {
     using System;
     using System.Collections.Generic;
